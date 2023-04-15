@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "img": "https://shop2023.netlify.app/imger.svg",
+      "title": "SOFA",
+      "name": "Landskrona",
+      "price": "$499",
+      "oldprice": "$549",
+      "btn": "+",
+      "id": 1
+    },
+    {
+      "img": "https://shop2023.netlify.app/Product%20image.svg",
+      "title": "CHAIR",
+      "name": "Strandmon",
+      "price": "$399",
+      "oldprice": "$499",
+      "btn": "+",
+      "id": 2
+    },
+    {
+      "img": "https://shop2023.netlify.app/Product%20image-1.svg",
+      "title": "TABLE",
+      "name": "Odger",
+      "price": "$799",
+      "oldprice": "$899",
+      "btn": "+",
+      "id": 3
+    },
+    {
+      "img": "https://shop2023.netlify.app/Product%20image-2.svg",
+      "title": "SOFA",
+      "name": "Soderhamn",
+      "price": "$660",
+      "oldprice": "$799",
+      "btn": "+",
+      "id": 4
+    }
+  ]
+}
