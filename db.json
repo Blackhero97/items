@@ -6,6 +6,7 @@
       "name": "Landskrona",
       "price": "$499",
       "oldprice": "$549",
+      "text":"Prepared by experienced English teachers, the texts, articles and conversations are brief and appropriate to your level of proficiency. Take the multiple-choice quiz following each text, and you'll get the results immediately. You will feel both challenged and accomplished! You can even download (as PDF) and print the texts and exercises. It's enjoyable, fun and free. Good luck!",
       "btn": "+",
       "id": 1
     },
@@ -15,6 +16,7 @@
       "name": "Strandmon",
       "price": "$399",
       "oldprice": "$499",
+      "text":"Prepared by experienced English teachers, the texts, articles and conversations are brief and appropriate to your level of proficiency. Take the multiple-choice quiz following each text, and you'll get the results immediately. You will feel both challenged and accomplished! You can even download (as PDF) and print the texts and exercises. It's enjoyable, fun and free. Good luck!",
       "btn": "+",
       "id": 2
     },
@@ -24,6 +26,7 @@
       "name": "Odger",
       "price": "$799",
       "oldprice": "$899",
+      "text":"Prepared by experienced English teachers, the texts, articles and conversations are brief and appropriate to your level of proficiency. Take the multiple-choice quiz following each text, and you'll get the results immediately. You will feel both challenged and accomplished! You can even download (as PDF) and print the texts and exercises. It's enjoyable, fun and free. Good luck!",
       "btn": "+",
       "id": 3
     },
@@ -33,6 +36,7 @@
       "name": "Soderhamn",
       "price": "$660",
       "oldprice": "$799",
+      "text":"Prepared by experienced English teachers, the texts, articles and conversations are brief and appropriate to your level of proficiency. Take the multiple-choice quiz following each text, and you'll get the results immediately. You will feel both challenged and accomplished! You can even download (as PDF) and print the texts and exercises. It's enjoyable, fun and free. Good luck!",
       "btn": "+",
       "id": 4
     }
